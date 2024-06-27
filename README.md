@@ -14,9 +14,9 @@
 - `1` CPU IN %  `Мониторинг загрузки процессора в процентах`
 - `2` MEMORY IN % `Мониторинг загрузки памяти в процентах`
 
-Для создания элемента данных были использованы следующие Поддерживаемые ключи элементов
-Для CPU IN %  `system.cpu.util`
-Для MEMORY IN % `vm.memory.size`
+> Для создания элемента данных были использованы следующие Поддерживаемые ключи элементов
+> Для CPU IN %  `system.cpu.util`
+> Для MEMORY IN % `vm.memory.size`
 ![1-7](https://github.com/MaximMantr/Monitoring/blob/zabbix_2/img/Zabbix_2/work_1/7.png)
 ![1-8](https://github.com/MaximMantr/Monitoring/blob/zabbix_2/img/Zabbix_2/work_1/8.png)
 ---
